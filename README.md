@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Chandra Sagar
 
-🔹 Java | Python | React.js | AR/ML | Experimental Projects  
-🔹 Learning & building prototypes to strengthen full-stack and AI/ML skills  
+🔹 Java | MS SQL Server | React.js | Experimental Projects  
+🔹 Learning & building prototypes to strengthen full-stack skills  
 
 ---
 
