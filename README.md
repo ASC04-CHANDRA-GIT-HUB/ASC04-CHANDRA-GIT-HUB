@@ -8,7 +8,7 @@
 ## 🚀 About This Repository
 This repository is dedicated to my **training, learning, and experimental projects**:  
 - 💻 Hands-on training at **Ascendion**  
-- 🎓 Practicing full-stack development, AI/ML, and AR/VR projects  
+- 🎓 Practicing full-stack developmentand projects  
 - 🛠️ Focused on **learning by doing** through mini projects, exercises, and prototypes  
 - 📚 Safe space to explore new technologies and programming concepts  
 
@@ -16,17 +16,12 @@ This repository is dedicated to my **training, learning, and experimental projec
 
 ## 🛠️ Skills Practiced Here
 
-### 🎓 Training & Academic Exploration
-- Object-Oriented Programming (OOP) & Data Structures  
-- Database Management (SQL Server, MySQL)  
-- Python & C++  
-- Robot Operating System (ROS) & Augmented Reality (AR)  
-- Computer Vision (OpenCV) & Streamlit  
-- Software Testing & Ethical Hacking  
-
 ### 💼 Web & Full-Stack Development
+- Java
 - React.js  
-- Spring Boot & Spring Framework  
+- Spring Boot & Spring Framework
+- Object-Oriented Programming (OOP)
+- Database Management (SQL Server, MySQL)  
 
 ---
 
