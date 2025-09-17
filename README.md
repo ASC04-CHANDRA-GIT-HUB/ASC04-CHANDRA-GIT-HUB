@@ -1,56 +1,42 @@
 # Hi there 👋, I'm Chandra Sagar
 
-🔹 Java | Spring Boot | React.js | Cloud Technologies  
-🔹 Passionate about building scalable and mission-critical apps  
+🔹 Java | Python | React.js | AR/ML | Experimental Projects  
+🔹 Learning & building prototypes to strengthen full-stack and AI/ML skills  
 
 ---
 
-## 🚀 About Me
-- 💻 Associate Engineer at **Ascendion**  
-- 🎓 Graduate from **PES University**  
-- 🌱 Past **Software Engineer Intern** at *White And Box – Tech Products & Services*  
-- 🛠️ Experienced in full-stack development, AI/ML, and software engineering concepts  
-- 🏏 Passionate cricketer & fitness enthusiast  
+## 🚀 About This Repository
+This repository is dedicated to my **training, learning, and experimental projects**:  
+- 💻 Hands-on training at **Ascendion**  
+- 🎓 Practicing full-stack development, AI/ML, and AR/VR projects  
+- 🛠️ Focused on **learning by doing** through mini projects, exercises, and prototypes  
+- 📚 Safe space to explore new technologies and programming concepts  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills Practiced Here
 
-### 🎓 Academic Skills (PES University)
-- Database Management System (DBMS)  
-- Object-Oriented Programming (OOP)  
-- C++  
-- Robot Operating System (ROS)  
-- Team Leadership  
-- Operating Systems  
-- Data Structures  
-- Software Testing  
-- Ethical Hacking  
+### 🎓 Training & Academic Exploration
+- Object-Oriented Programming (OOP) & Data Structures  
+- Database Management (SQL Server, MySQL)  
+- Python & C++  
+- Robot Operating System (ROS) & Augmented Reality (AR)  
+- Computer Vision (OpenCV) & Streamlit  
+- Software Testing & Ethical Hacking  
 
-### 💼 Professional Skills (Ascendion)
-- Spring Boot  
-- Spring Framework  
+### 💼 Web & Full-Stack Development
 - React.js  
-- Microsoft SQL Server  
-
-### 🧑‍💻 Internship Skills (White And Box – Tech Products & Services)
-- Python (Programming Language)  
-- Augmented Reality (AR)  
-- OpenCV  
-- Streamlit  
+- Spring Boot & Spring Framework  
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projects & Experiments
+This repository contains:  
+- Training exercises and learning modules  
+- Mini projects from internal Ascendion sessions  
+- Experimental prototypes to test new concepts and technologies  
 
-## 🔗 [Main Profile](https://github.com/chandrasagarcm) 
-### 📂 Sample Projects
-![Chandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasagarcm&layout=compact&theme=tokyonight)  
-
-
-## 📘 [Training Repository (Ascendion)](https://github.com/ASC04-CHANDRA-GIT-HUB)  
-### 📂 Advanced Projects
-![Chandra's Training Repository's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASC04-CHANDRA-GIT-HUB&layout=compact&theme=tokyonight) 
+![Chandra's Training Repository Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASC04-CHANDRA-GIT-HUB&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -59,9 +45,5 @@
   <img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
 
-
-📧 Work Email: chandra.sagar@ascendion.com
-
-📧 Email: chandrasagargowda18@gmail.com
-
---- 
+📧 Work Email: chandra.sagar@ascendion.com  
+📧 Email: chandrasagargowda18@gmail.com  
